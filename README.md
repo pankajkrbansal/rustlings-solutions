@@ -1,5 +1,5 @@
 # Rustlings Solutions 🦀
-The Rustlings Solution Repository contains the solutions to the exercises found in the Rustlings repository for tag **5.4.0**. Rustlings is a collection of exercises designed to help you learn Rust programming language. This repository provides solutions to the Rustlings exercises and is intended to be used as a reference for learners who are stuck or want to compare their solutions with others.
+The Rustlings Solution Repository contains the solutions to the exercises found in the Rustlings repository for release **5.4.0**. Rustlings is a collection of exercises designed to help you learn Rust programming language. This repository provides solutions to the Rustlings exercises and is intended to be used as a reference for learners who are stuck or want to compare their solutions with others.
 
 To use this repository, simply navigate to the exercise you are interested in and look for the corresponding solution file. The solutions are organized in directories that correspond to the exercises in the Rustlings repository. Each solution file contains commented code that explains the solution and how it works.
 
